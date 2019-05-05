@@ -14,9 +14,9 @@ You can use all the following url links from table. Service will redirect you to
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Please, raise pull request to improve this readme and documentation.
+Raise [pull request](https://github.com/emoji-short/xn--i77h6a.ml/pulls) to improve this readme, documentation or json files.
 
-If you want contribute to URL redirections, please raise Issue and propose us your idea.
+If you want contribute to URL redirections, please [raise Issue](https://github.com/emoji-short/xn--i77h6a.ml/issues) and propose us your idea.
 
 ## License
 
