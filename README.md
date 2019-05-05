@@ -1,4 +1,4 @@
-# xn--i77h6a.ml
+# 🇪🇺.ml or xn--i77h6a.ml
 The Open Source URL navigation service for European Union 🇪🇺.ml
 
 ## Getting Started
@@ -7,7 +7,7 @@ You can use all the following url links from table. Service will redirect you to
 
 ## URL list
 
-* [Main domain 🇪🇺.ml](https://europa.eu/)
+* [Main domain 🇪🇺.ml (xn--i77h6a.ml)](https://europa.eu/)
 * [Member states overview](docs/overview-member-states)
 
 ## Contributing
