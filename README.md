@@ -8,7 +8,7 @@ You can use all the following url links from table. Service will redirect you to
 ## URL list
 
 * [Main domain 🇪🇺.ml (xn--i77h6a.ml)](https://europa.eu/)
-* [Member states overview](docs/overview-member-states)
+* [Member states overview](docs/overview-member-states.md)
 
 ## Contributing
 
