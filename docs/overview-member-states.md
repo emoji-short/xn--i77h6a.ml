@@ -1,6 +1,6 @@
 # EU member countries in brief
 
-## Countries with subdomain as name
+### Subdomain as name
 
 Domain | Alternate | Redirection
 --- | --- | ---
@@ -33,7 +33,7 @@ Domain | Alternate | Redirection
 [sweden.🇪🇺.ml](http://sweden.🇪🇺.ml) | [sweden.xn--i77h6a.ml](http://sweden.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/sweden_en](https://europa.eu/european-union/about-eu/countries/member-countries/sweden_en)
 [unitedkingdom.🇪🇺.ml](http://unitedkingdom.🇪🇺.ml) | [unitedkingdom.xn--i77h6a.ml](http://unitedkingdom.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en](https://europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en)
 
-## Countries with subdomain as flag
+### Subdomain as flag
 
 Domain | Alternate | Redirection
 --- | --- | ---
