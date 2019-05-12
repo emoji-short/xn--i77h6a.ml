@@ -1,6 +1,6 @@
 # EU member countries in brief
 
-## Countries with name
+## Countries with subdomain as name
 
 Domain | Alternate | Redirection
 --- | --- | ---
@@ -32,3 +32,36 @@ Domain | Alternate | Redirection
 [spain.🇪🇺.ml](http://spain.🇪🇺.ml) | [spain.xn--i77h6a.ml](http://spain.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/spain_en](https://europa.eu/european-union/about-eu/countries/member-countries/spain_en)
 [sweden.🇪🇺.ml](http://sweden.🇪🇺.ml) | [sweden.xn--i77h6a.ml](http://sweden.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/sweden_en](https://europa.eu/european-union/about-eu/countries/member-countries/sweden_en)
 [unitedkingdom.🇪🇺.ml](http://unitedkingdom.🇪🇺.ml) | [unitedkingdom.xn--i77h6a.ml](http://unitedkingdom.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en](https://europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en)
+
+## Countries with subdomain as flag
+
+Domain | Alternate | Redirection
+--- | --- | ---
+[🇦🇹.🇪🇺.ml](http://🇦🇹.🇪🇺.ml) | [xn--e77hgb.xn--i77h6a.ml](http://xn--e77hgb.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/austria_en](https://europa.eu/european-union/about-eu/countries/member-countries/austria_en)
+[🇧🇪.🇪🇺.ml](http://🇧🇪.🇪🇺.ml) | [xn--f77hga.xn--i77h6a.ml](http://xn--f77hga.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/belgium_en](https://europa.eu/european-union/about-eu/countries/member-countries/belgium_en)
+[🇧🇬.🇪🇺.ml](http://🇧🇬.🇪🇺.ml) | [xn--f77hka.xn--i77h6a.ml](http://xn--f77hka.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/bulgaria_en](https://europa.eu/european-union/about-eu/countries/member-countries/bulgaria_en)
+[🇭🇷.🇪🇺.ml](http://🇭🇷.🇪🇺.ml) | [xn--l77hua.xn--i77h6a.ml](http://xn--l77hua.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/croatia_en](https://europa.eu/european-union/about-eu/countries/member-countries/croatia_en)
+[🇨🇾.🇪🇺.ml](http://🇨🇾.🇪🇺.ml) | [xn--g77hmb.xn--i77h6a.ml](http://xn--g77hmb.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/cyprus_en](https://europa.eu/european-union/about-eu/countries/member-countries/cyprus_en)
+[🇨🇿.🇪🇺.ml](http://🇨🇿.🇪🇺.ml) | [xn--g77hob.xn--i77h6a.ml](http://xn--g77hob.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/czechia_en](https://europa.eu/european-union/about-eu/countries/member-countries/czechia_en)
+[🇩🇰.🇪🇺.ml](http://🇩🇰.🇪🇺.ml) | [xn--h77hoa.xn--i77h6a.ml](http://xn--h77hoa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/denmark_en](https://europa.eu/european-union/about-eu/countries/member-countries/denmark_en)
+[🇪🇪.🇪🇺.ml](http://🇪🇪.🇪🇺.ml) | [xn--i77ha.xn--i77h6a.ml](http://xn--i77ha.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/estonia_en](https://europa.eu/european-union/about-eu/countries/member-countries/estonia_en)
+[🇫🇮.🇪🇺.ml](http://🇫🇮.🇪🇺.ml) | [xn--j77hga.xn--i77h6a.ml](http://xn--j77hga.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/finland_en](https://europa.eu/european-union/about-eu/countries/member-countries/finland_en)
+[🇫🇷.🇪🇺.ml](http://🇫🇷.🇪🇺.ml) | [xn--j77hya.xn--i77h6a.ml](http://xn--j77hya.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/france_en](https://europa.eu/european-union/about-eu/countries/member-countries/france_en)
+[🇩🇪.🇪🇺.ml](http://🇩🇪.🇪🇺.ml) | [xn--h77hc.xn--i77h6a.ml](http://xn--h77hc.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/germany_en](https://europa.eu/european-union/about-eu/countries/member-countries/germany_en)
+[🇬🇷.🇪🇺.ml](http://🇬🇷.🇪🇺.ml) | [xn--k77hwa.xn--i77h6a.ml](http://xn--k77hwa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/greece_en](https://europa.eu/european-union/about-eu/countries/member-countries/greece_en)
+[🇭🇺.🇪🇺.ml](http://🇭🇺.🇪🇺.ml) | [xn--l77h0a.xn--i77h6a.ml](http://xn--l77h0a.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/hungary_en](https://europa.eu/european-union/about-eu/countries/member-countries/hungary_en)
+[🇮🇪.🇪🇺.ml](http://🇮🇪.🇪🇺.ml) | [xn--i77hha.xn--i77h6a.ml](http://xn--i77hha.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/ireland_en](https://europa.eu/european-union/about-eu/countries/member-countries/ireland_en)
+[🇮🇹.🇪🇺.ml](http://🇮🇹.🇪🇺.ml) | [xn--m77hwa.xn--i77h6a.ml](http://xn--m77hwa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/italy_en](https://europa.eu/european-union/about-eu/countries/member-countries/italy_en)
+[🇱🇻.🇪🇺.ml](http://🇱🇻.🇪🇺.ml) | [xn--p77hua.xn--i77h6a.ml](http://xn--p77hua.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/latvia_en](https://europa.eu/european-union/about-eu/countries/member-countries/latvia_en)
+[🇱🇹.🇪🇺.ml](http://🇱🇹.🇪🇺.ml) | [xn--p77hqa.xn--i77h6a.ml](http://xn--p77hqa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/lithuania_en](https://europa.eu/european-union/about-eu/countries/member-countries/lithuania_en)
+[🇱🇺.🇪🇺.ml](http://🇱🇺.🇪🇺.ml) | [xn--p77hsa.xn--i77h6a.ml](http://xn--p77hsa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/luxembourg_en](https://europa.eu/european-union/about-eu/countries/member-countries/luxembourg_en)
+[🇲🇹.🇪🇺.ml](http://🇲🇹.🇪🇺.ml) | [xn--q77hoa.xn--i77h6a.ml](http://xn--q77hoa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/malta_en](https://europa.eu/european-union/about-eu/countries/member-countries/malta_en)
+[🇳🇱.🇪🇺.ml](http://🇳🇱.🇪🇺.ml) | [xn--p77hd.xn--i77h6a.ml](http://xn--p77hd.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/netherlands_en](https://europa.eu/european-union/about-eu/countries/member-countries/netherlands_en)
+[🇵🇱.🇪🇺.ml](http://🇵🇱.🇪🇺.ml) | [xn--p77hha.xn--i77h6a.ml](http://xn--p77hha.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/poland_en](https://europa.eu/european-union/about-eu/countries/member-countries/poland_en)
+[🇵🇹.🇪🇺.ml](http://🇵🇹.🇪🇺.ml) | [xn--t77hia.xn--i77h6a.ml](http://xn--t77hia.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/portugal_en](https://europa.eu/european-union/about-eu/countries/member-countries/portugal_en)
+[🇷🇴.🇪🇺.ml](http://🇷🇴.🇪🇺.ml) | [xn--s77hfa.xn--i77h6a.ml](http://xn--s77hfa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/romania_en](https://europa.eu/european-union/about-eu/countries/member-countries/romania_en)
+[🇸🇰.🇪🇺.ml](http://🇸🇰.🇪🇺.ml) | [xn--o77hpa.xn--i77h6a.ml](http://xn--o77hpa.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/slovakia_en](https://europa.eu/european-union/about-eu/countries/member-countries/slovakia_en)
+[🇸🇮.🇪🇺.ml](http://🇸🇮.🇪🇺.ml) | [xn--m77hta.xn--i77h6a.ml](http://xn--m77hta.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/slovenia_en](https://europa.eu/european-union/about-eu/countries/member-countries/slovenia_en)
+[🇪🇸.🇪🇺.ml](http://🇪🇸.🇪🇺.ml) | [xn--i77h2a.xn--i77h6a.ml](http://xn--i77h2a.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/spain_en](https://europa.eu/european-union/about-eu/countries/member-countries/spain_en)
+[🇸🇪.🇪🇺.ml](http://🇸🇪.🇪🇺.ml) | [xn--i77h1a.xn--i77h6a.ml](http://xn--i77h1a.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/sweden_en](https://europa.eu/european-union/about-eu/countries/member-countries/sweden_en)
+[🇬🇧.🇪🇺.ml](http://🇬🇧.🇪🇺.ml) | [xn--f77hja.xn--i77h6a.ml](http://xn--f77hja.xn--i77h6a.ml/) | [europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en](https://europa.eu/european-union/about-eu/countries/member-countries/unitedkingdom_en)
